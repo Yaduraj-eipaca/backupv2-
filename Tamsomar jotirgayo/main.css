@@ -1,0 +1,45 @@
+.Top
+{
+	text-align: center;
+	
+}
+
+
+.grid
+{
+	display: flex;
+
+	justify-content: space-evenly;
+
+
+}
+
+.item
+{
+	margin-top: 10%;
+}
+
+.quote
+{
+	font-family: verdana !important;
+	margin-top: 25%;
+	border: 3px dashed;
+	text-align: center;	
+}
+
+body
+{
+	background-image: linear-gradient(180deg, black, grey);
+}
+
+h1
+{
+	font-family: verdana;
+	color: white;
+}
+
+h4
+{
+	font-family: sans-serif;
+	color: white;
+}
